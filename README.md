@@ -1,3 +1,13 @@
+Forked fchollet/keras.
+Maintain similar Torch-like interfaces but rewrite internally.
+
+TODO:
+-- arbitrary DAG layer connections
+-- better I/O interface. Support large datasets.
+-- multi-gpu support.
+-- various domain specific layers.
+
+
 # Keras: Theano-based Deep Learning library
 
 ## You have just found Keras.
